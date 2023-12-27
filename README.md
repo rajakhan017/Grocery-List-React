@@ -1,2 +1,2 @@
 # Grocery-List-React
-# Hosted [Link](https://github.com/rajakhan017/Grocery-List-React.git)
+# Hosted [Link](https://grocery-list-react-flax.vercel.app/)
